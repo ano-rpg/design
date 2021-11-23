@@ -31,7 +31,12 @@ img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {
 	height: 50px;
 	background-position: center center;
 	background-repeat: no-repeat;
-	background-size: cover;
+    background-size: contain;
+}
+
+img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {
+	width: 170px;
+	height: 60px;
 }
 
 
