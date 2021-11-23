@@ -24,6 +24,10 @@ body .bodyline {
     border-image-source: linear-gradient(180deg, hsla(var(--accent-hue, 200), 50%, 30%, 0) 0px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 250px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 100%)!important;
 }
 
+body img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://i.servimg.com/u/f44/20/29/00/76/new12.png")}
+body img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_repo10.gif"] {background-image: url("https://i.servimg.com/u/f44/20/29/00/76/rzopon16.png")}
+body img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {background-image: url("https://i.ibb.co/WfZ9Dqg/verrouill.png")}
+
 /***************************** THEME RETRO *****************************/
 body.retro {
     background-image: linear-gradient(to bottom, rgb(0 0 0 / 75%), rgb(0 0 0 / 95%)),url("https://cdn.discordapp.com/attachments/782174816513032213/911753896416915456/bg_retro.png");
@@ -69,6 +73,10 @@ body.retro .sprite-icon_topic_newest {
     height: 11px;
     width: 9px;
 }
+
+body.retro img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821410563489892/new_AD.png")}
+body.retro img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_repo10.gif"] {background-image: url("https://media.discordapp.net/attachments/782166024816295937/912722918126026842/repondre_AD.png")}
+body.retro img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821409577836594/lock_AD.png")}
 
 body.retro .S_Title{color:#d0c571;text-align:center;font-size:45px;padding: 30px 0 15px 0;font-family: 'Limelight', cursive;}
 
@@ -126,6 +134,10 @@ body.neon a:not(.mainmenu):hover {
 body.neon .ano_pa_title {
   color:#7e2a53!important;
 }
+
+body.neon img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912748935649587231/new_neon.png")}
+body.neon img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_repo10.gif"] {background-image: url("https://media.discordapp.net/attachments/782166024816295937/912723403826425866/repondre_neon.png")}
+body.neon img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912748935280484372/lock_neon.png")}
 
 body.neon .S_Title{text-align:center;font-size:45px;padding: 30px 0 15px 0;font-family: 'Kaushan Script', cursive;background-color: #f3ec78;
     background-image: linear-gradient(45deg, #f05487, #4a9ad3);
@@ -237,6 +249,10 @@ body.hollywood .postbody {
     color: #1a1a1a!important;
 }
 
+body.hollywood img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821410823561246/new_hollywood.png")}
+body.hollywood img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_repo10.gif"] {background-image: url("https://media.discordapp.net/attachments/782166024816295937/912725000870588426/repondre_hollywood.png")}
+body.hollywood img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821409930170398/lock_hollywood.png")}
+
 body.hollywood .S_cadre {
     background-color: #f9f7e1;
 }
@@ -338,6 +354,10 @@ body.noel .codebox dd {
     background-color: #dbcfae;
     border: solid 1px #8f2427;
 }
+
+body.noel img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821411112955984/new_noel.png")}
+body.noel img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_repo10.gif"] {background-image: url("https://media.discordapp.net/attachments/782166024816295937/912725001176768532/repondre_noel.png")}
+body.noel img[src="https://i23.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821887384584212/lock_noel.png")}
 
 body.noel .S_cadre {
     background-color: #cdc5b3;
