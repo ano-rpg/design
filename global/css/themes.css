@@ -1,0 +1,380 @@
+/***************************** THEME DEFAUT *****************************/
+
+body {
+    --fow-bg: #0e0e0e!important;
+    --sceditor-border: #191919!important;
+    --sceditor-txt: rgba(142,142,142,1)!important;
+}
+
+body #i_logo {
+  content: url("https://2img.net/cdn.discordapp.com/attachments/782166024816295937/793544636286369822/ban_ano.png");
+  margin-top:30px;
+}
+
+body .bodylinewidth {
+    width: 920px;
+}
+
+body .bodyline {
+    padding: 100px 10px 10px 10px!important;
+    background: linear-gradient(180deg, rgb(10 10 10 / 0%) 0px, rgb(10 10 10) 250px, rgb(10 10 10) 100%);
+    border: 1px solid!important;
+    border-width: 0px 1px!important;
+    border-image-slice: 1!important;
+    border-image-source: linear-gradient(180deg, hsla(var(--accent-hue, 200), 50%, 30%, 0) 0px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 250px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 100%)!important;
+}
+
+/***************************** THEME RETRO *****************************/
+body.retro {
+    background-image: linear-gradient(to bottom, rgb(0 0 0 / 75%), rgb(0 0 0 / 95%)),url("https://cdn.discordapp.com/attachments/782174816513032213/911753896416915456/bg_retro.png");
+    background-attachment: fixed, fixed;
+    --fow-bg: #0e0e0e!important;
+    --accent-hue: 49!important;
+    --accent-color: hsl(49deg 46% 59%)!important;
+    --title-txt: #000906!important;
+    --pulse_bg-hue: var(--accent-hue, 195)!important;
+    --sceditor-border: #191919!important;
+    --sceditor-txt: rgba(142,142,142,1)!important;
+}
+
+body.retro #i_logo {
+  content: url("https://media.discordapp.net/attachments/782174816513032213/911614040529334312/art_deco.png");
+  margin-top:30px;
+  box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+}
+
+body.retro .bodylinewidth {
+    width: 920px;
+}
+
+body.retro .bodyline {
+    padding: 100px 10px 10px 10px!important;
+    background: linear-gradient(180deg, rgb(10 10 10 / 0%) 0px, rgb(10 10 10) 250px, rgb(10 10 10) 100%);
+    border: 1px solid!important;
+    border-width: 0px 1px!important;
+    border-image-slice: 1!important;
+    border-image-source: linear-gradient(180deg, rgba(172,138,0,0) 0%, rgba(172,138,0,.4) 250px, rgba(172,138,0,.4) 100%)!important;
+}
+
+body.retro .sprite-icon_topic_latest {
+    background-image: url(https://i.servimg.com/u/f23/20/37/66/52/2i1q10.png);
+    background-position: 0 0;
+    height: 11px;
+    width: 9px;
+}
+
+body.retro .sprite-icon_topic_newest {
+    background-image: url(https://i.servimg.com/u/f23/20/37/66/52/sans_t10.png);
+    background-position: 0 0;
+    height: 11px;
+    width: 9px;
+}
+
+body.retro .S_Title{color:#d0c571;text-align:center;font-size:45px;padding: 30px 0 15px 0;font-family: 'Limelight', cursive;}
+
+body.retro .post_info_cover {
+    background: url(https://zupimages.net/up/21/46/epek.png) bottom center, var(--cover-color);
+}
+
+html.retro ::-webkit-scrollbar-thumb {
+    BACKGROUND-COLOR: #c1b063;
+}
+
+/***************************** THEME NEON *****************************/
+
+body.neon {
+    background-image: linear-gradient(to bottom, rgb(0 0 0 / 55%), rgb(0 0 0 / 75%)), url(https://static.vecteezy.com/ti/photos-gratuite/p1/2317574-mur-de-brique-vide-avec-neon-bleu-et-rose-gratuit-photo.jpg);
+    background-attachment: fixed, fixed;
+    background-size: cover, cover;
+    --fow-bg: #0e0e0e!important;
+    --sceditor-border: #191919!important;
+    --sceditor-txt: rgba(142,142,142,1)!important;
+}
+
+body.neon #i_logo {
+  content: url("https://cdn.discordapp.com/attachments/782174816513032213/910921541380898826/night-vibes.gif");
+  margin-top:30px;
+  box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+}
+
+body.neon .bodylinewidth {
+    width: 920px;
+}
+
+body.neon .bodyline {
+    padding: 100px 10px 10px 10px!important;
+    background: linear-gradient(180deg, rgb(10 10 10 / 0%) 0px, rgb(10 10 10) 250px, rgb(10 10 10) 100%);
+    border: 1px solid!important;
+    border-width: 0px 1px!important;
+    border-image-slice: 1!important;
+    border-image-source: linear-gradient(180deg, rgba(172,138,0,0) 0%, rgb(123 40 78) 250px, rgb(77 160 221) 100%)!important;
+}
+
+body.neon .pa_title,
+body.neon .cat_title, 
+body.neon .qeel_title{
+  background-image: linear-gradient(45deg,hsl(340deg 42% 37%),#0260ba);
+}
+
+body.neon a:not(.mainmenu), 
+body.neon a:not(.mainmenu):link, 
+body.neon a:not(.mainmenu):visited, 
+body.neon a:not(.mainmenu):hover {
+    color: hsl(205deg 61% 56%);
+}
+
+body.neon .ano_pa_title {
+  color:#7e2a53!important;
+}
+
+body.neon .S_Title{text-align:center;font-size:45px;padding: 30px 0 15px 0;font-family: 'Kaushan Script', cursive;background-color: #f3ec78;
+    background-image: linear-gradient(45deg, #f05487, #4a9ad3);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+body.neon .post_info_cover {
+    background: url(https://zupimages.net/up/21/46/issh.png) bottom center, var(--cover-color);
+}
+
+body.neon .sprite-icon_topic_latest {
+    background-image: url(https://zupimages.net/up/21/46/vgu3.png);
+    background-position: 0 0;
+    height: 11px;
+    width: 9px;
+}
+
+body.neon .sprite-icon_topic_newest {
+    background-image: url(https://zupimages.net/up/21/46/wubo.png);
+    background-position: 0 0;
+    height: 11px;
+    width: 9px;
+}
+
+html.neon ::-webkit-scrollbar-thumb {
+    BACKGROUND-COLOR: #843853;
+}
+
+body.neon .i_icon_quote  {
+    background-image: url(https://media.discordapp.net/attachments/782166024816295937/912754703476080700/citer_neon.png);
+    background-position: 0 0;
+    height: 10px;
+    width: 10px;
+}
+
+/******************************* THEME HOLLYWOOD *********************************/
+
+
+body.hollywood {
+    background-image: linear-gradient(to bottom, rgb(255 255 255 / 10%), rgb(255 255 255 / 30%)), url(https://cdn.shopify.com/s/files/1/0131/4180/3065/products/AV245_Antique_Shop_ANTIQUESHOP_400x400.jpg?v=1635183375);
+    background-attachment: fixed, fixed;
+    background-repeat: no-repeat, repeat;
+    background-size: cover, 190px;
+    --accent-hue: 193!important;
+    --accent-color: hsl(193deg 80% 34%)!important;
+    --pulse_bg-hue: var(--accent-hue, 195)!important;
+    --fow-bg: #ffefc2!important;
+    --fow-txt: rgb(24 24 24)!important;
+    --title-txt: black!important;
+    --title-bg: var(--accent-color)!important;
+    --title-2-txt: #323232!important;
+    --title-2-bg: #f9f7e1!important;
+    --sceditor-border: #0e0e0e!important;
+    --sceditor-txt: black!important;
+  
+    --sw-color-bg: #ffefc2!important;
+    --sw-color-squircle: #f9f7e1!important;
+    --sw-color-button: black!important;
+    --sw-color-text: black!important;
+}
+
+body.hollywood #i_logo {
+  content: url("https://cdn.discordapp.com/attachments/898934214039314472/912086895645818960/ban-hollywood.gif");
+/*  content: url("https://cdn.discordapp.com/attachments/782174816513032213/911621037353996358/ban-hollywood.gif");*/
+  margin-top:30px;
+/*  box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;*/
+
+}
+
+body.hollywood > a[href="/"] {
+    background:none!important;
+}
+
+body.hollywood > a[href="/"]:after {
+    content: "";
+    display: block;
+    width: 93%;
+    height: 1px;
+    box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+    margin-top: -2px;
+    margin-left: 3%;
+}
+
+body.hollywood .bodyline {
+    background: linear-gradient(180deg, rgb(215 215 215 / 0%) 0px, rgb(254 229 169) 250px, rgb(255 229 168) 100%);
+}
+
+body.hollywood #nav_bar {
+	box-shadow: 0px 0px 2px #424242, 2px 2px 3px #5e5e5e;
+}
+
+body.hollywood .post_info {
+    color: #787878;
+}
+
+body.hollywood .topic_stats_container > span {
+	text-shadow: none;
+}
+
+body.hollywood .topic_description {
+    color: inherit!important;
+}
+
+body.hollywood .postbody {
+    color: #1a1a1a!important;
+}
+
+body.hollywood .S_cadre {
+    background-color: #f9f7e1;
+}
+
+body.hollywood .S_Title {
+    color: #060606;font-family: 'Parisienne', cursive;font-weight:bold;
+}
+
+body.hollywood .S_cadre h1 {
+    color: #0c0c0c;
+    font-family: 'Parisienne', cursive;
+    font-size: 25px;
+}
+
+body.hollywood .ano_pa_staff_text{
+    background: rgb(254 229 169);
+}
+
+body.hollywood .ano_pa_top_parto img {
+    background-color: hsl(43deg 98% 83%);
+}
+
+body.hollywood .sprite-icon_topic_latest {
+    background-image: url(https://zupimages.net/up/21/46/0ds6.png);
+    background-position: 0 0;
+    height: 10px;
+    width: 10px;
+}
+
+body.hollywood .sprite-icon_topic_newest {
+    background-image: url(https://zupimages.net/up/21/46/mpgi.png);
+    background-position: 0 0;
+    height: 10px;
+    width: 10px;
+}
+
+html.hollywood ::-webkit-scrollbar-track {
+    background-color: #f9f7e1!important;
+}
+
+html.hollywood ::-webkit-scrollbar-thumb {
+    BACKGROUND-COLOR: #17819e!important;
+}
+
+body.hollywood .codebox dd {
+    background-color: #f9f7e1;
+}
+
+body.hollywood .spoiler_content {
+  background-color: #f9f7e1;
+  border: #f9f7e1;
+}
+
+body.hollywood .post_info_cover {
+    background: url(https://media.discordapp.net/attachments/782166024816295937/912812238115590175/fond_hollywood.png) bottom center, var(--cover-color);
+}
+
+body.hollywood .post_info_cover:before {
+    background: rgba(0,0,0,0);
+}
+
+/******************************* THEME NOEL *********************************/
+
+body.noel #i_logo {
+  content: url("https://media.discordapp.net/attachments/782166024816295937/912714193445203968/ban-noel-1920.gif");
+  margin-top:30px;
+  box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+}
+
+body.noel {
+    background-image: linear-gradient(to bottom, rgb(0 0 0 / 0%), rgb(0 0 0 / 30%)),url("https://media.discordapp.net/attachments/549523156633649163/912705287834705971/unknown.png");
+    background-attachment: fixed, fixed;
+    background-repeat: no-repeat, repeat;
+    --fow-bg: #00443d!important;
+    --title-2-bg: #831a22;
+    --accent-color: #831a22!important;
+    --title-txt: #d8cfbd;
+    --fow-txt: rgb(204 196 178);
+}
+
+body.noel .bodyline {
+    padding: 100px 10px 10px 10px!important;
+    background: linear-gradient(180deg, rgb(10 10 10 / 0%) 0px, rgb(208 199 181) 250px, rgb(130 26 35) 100%);
+    border: 1px solid!important;
+    border-width: 0px 1px!important;
+    border-image-slice: 1!important;
+    border-image-source: linear-gradient(180deg, hsla(var(--accent-hue, 200), 50%, 30%, 0) 0px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 250px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 100%)!important;
+}
+
+body.noel a:not(.mainmenu), body.noel a:not(.mainmenu):link, body.noel a:not(.mainmenu):visited, body.noel a:not(.mainmenu):hover {
+  color: #e8ddb9;
+}
+
+body.noel .pa_title{
+  color: #dad1be!important;
+}
+
+body.noel .codebox dd {
+    background-color: #dbcfae;
+    border: solid 1px #8f2427;
+}
+
+body.noel .S_cadre {
+    background-color: #cdc5b3;
+    background-image: linear-gradient(to bottom, rgb(209 200 182 / 20%), rgb(209 200 182 / 50%)), url(http://lorrainequebec.fr/img/jas383/guirlande.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0px -45px;
+    color: #274e4c;
+}
+
+body.noel .S_Title {
+  color: #831a22;
+  font-family: 'Pacifico', cursive;
+}
+
+body.noel .S_cadre h1 {
+  color: #00443d;
+  font-family: 'Pacifico', cursive;
+}
+
+body.noel .spoiler_content {
+    background-color: #dbcfae;
+    color: #00443d;
+}
+
+body.noel .nav{
+  text-shadow: 1px 1px 2px black;
+}
+
+body.noel .post_info_cover:before {
+    background: rgba(0,0,0,0.2);
+}
+
+body.noel .post_info_cover {
+    background: url(https://zupimages.net/up/21/47/4zkz.png) bottom center, var(--cover-color);
+}
+
+body.noel #fa_toolbar #fa_right #notif_list li .contentText a {
+    color: #d3d3d3!important;
+}
