@@ -90,8 +90,8 @@ body.retro .sprite-icon_topic_newest {
     width: 9px;
 }
 
-body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821410563489892/new_AD.png")}
-body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/t_repo10.gif"] {background-image: url("https://media.discordapp.net/attachments/782166024816295937/912722918126026842/repondre_AD.png")}
+body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/913029611858849792/new_art_deco.png")}
+body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/t_repo10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/913029612144058398/repondre_AD.png")}
 body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912821409577836594/lock_AD.png")}
 
 body.retro .S_Title{color:#d0c571;text-align:center;font-size:45px;padding: 30px 0 15px 0;font-family: 'Limelight', cursive;}
@@ -160,6 +160,7 @@ body.neon .S_Title{text-align:center;font-size:45px;padding: 30px 0 15px 0;font-
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent; 
     -moz-text-fill-color: transparent;
 }
