@@ -2031,6 +2031,18 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
 	left: -10px;
 }
 
+/* BADGES CUSTOM */
+
+.badge_riche {content:url(https://www.zupimages.net/up/19/45/3y7m.png);}
+.badge_chance {content:url(https://www.zupimages.net/up/20/02/39ms.png);}
+.badge_stvalentin {content:url(https://cdn.discordapp.com/attachments/565949947258863641/749623632661315624/3nyh.png);}
+.badge_centvotes {content:url(https://www.zupimages.net/up/21/03/sft9.png);}
+.badge_ccentvotes {content:url(https://cdn.discordapp.com/attachments/782166024816295937/806226075809480734/Badge_argent.png);}
+.badge_millevotes {content:url(https://media.discordapp.net/attachments/782166024816295937/806228736994181151/Badge_or.png);}
+.badge_dmillevotes {content:url(https://media.discordapp.net/attachments/782166024816295937/806226838308913190/Badge_platine.png);}
+
+.inventaire_loterie {content:url(https://www.zupimages.net/up/19/42/vxol.png);}
+
 /*******************
 ==== MEMBERLIST ====
 *******************/
@@ -2225,7 +2237,7 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
 
 /* GAZETTE */
 
-.G_cadre{text-align:justify;width:550px;margin:auto;background-image:url('https://zupimages.net/up/21/03/wuke.jpg');color:black;}
+.G_cadre{text-align:justify;width:550px;margin:auto;background-image:url('https://www.zupimages.net/up/21/03/wuke.jpg');color:black;}
 .G_title{font-family: 'Germania One', cursive;text-align: center;font-size: 40px;padding-top: 15px;}
 .G_subtitle{font-family: 'Germania One', cursive;text-align: center;font-size: 17px;padding-top: 15px;}
 .G_subtitle span{margin-right: 25px;}
