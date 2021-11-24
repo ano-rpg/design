@@ -40,11 +40,11 @@ body img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {width: 170
 
 /* Boutons Citer - Editer - X - Profil - MP - Fiche - Partie Perso */
 
-body .i_icon_quote {width: 61px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/citer12.png)}
-body .i_icon_edit {width: 65px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/editer14.png)}
-body .i_icon_delete {width: 21px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/x18.png)}
-body .i_icon_profile {width: 28px; height: 20px;background: url(https://2img.net/i.ibb.co/bQQbxkw/profil.png)}
-body .i_icon_pm {width: 28px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/mp10.png)}
+body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_quot10.gif"] {width: 61px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/citer12.png)}
+body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_edit10.gif"] {width: 65px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/editer14.png)}
+body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_dele10.gif"] {width: 21px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/x18.png)}
+body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_prof10.gif"] {width: 28px; height: 20px;background: url(https://2img.net/i.ibb.co/bQQbxkw/profil.png)}
+body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_priv10.gif"] {width: 28px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/mp10.png)}
 body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_fich10.gif"] {width: 61px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/fiche10.png)}
 body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_pers10.gif"] {width: 80px; height: 20px;background: url(https://i.servimg.com/u/f44/20/29/00/76/perso_10.png)}
 body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_emai10.gif"] {}
@@ -112,11 +112,11 @@ body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {back
 
 /* Boutons Citer - Editer - X - Profil - MP - Fiche - Partie Perso */
 
-body.retro .i_icon_quote {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913156699597201448/citer_art_deco.png)}
-body.retro .i_icon_edit {width: 65px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162579239649350/editer_AD.png)}
-body.retro .i_icon_delete {width: 21px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162580640555048/X_AD.png)}
-body.retro .i_icon_profile {width: 40px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162580376305774/profil_AD.png)}
-body.retro .i_icon_pm {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162579986243594/mp_AD.png)}
+body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_quot10.gif"] {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913156699597201448/citer_art_deco.png)}
+body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_edit10.gif"] {width: 65px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162579239649350/editer_AD.png)}
+body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_dele10.gif"] {width: 21px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162580640555048/X_AD.png)}
+body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_prof10.gif"] {width: 40px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162580376305774/profil_AD.png)}
+body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_priv10.gif"] {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162579986243594/mp_AD.png)}
 body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_fich10.gif"] {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162579755544596/fiche_AD.png)}
 body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_pers10.gif"] {width: 115px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913162915668979742/perso_AD.png)}
 body.retro img[src="https://i.servimg.com/u/f23/20/37/66/52/l_emai10.gif"] {}
@@ -255,11 +255,11 @@ body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {width
 
 /* Boutons Citer - Editer - X - Profil - MP - Fiche - Partie Perso */
 
-body.neon .i_icon_quote {width: 40px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912754703476080700/citer_neon.png") center no-repeat;}
-body.neon .i_icon_edit {width: 40px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912754703773884466/editer_neon.png") center no-repeat;}
-body.neon .i_icon_delete {width: 21px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912754704130404432/X_neon.png") center no-repeat;}
-body.neon .i_icon_profile {width: 40px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912759780286824458/profil_neon.png") center no-repeat;}
-body.neon .i_icon_pm {width: 28px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912759779678625832/mp_neon.png") center no-repeat;}
+body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/l_quot10.gif"] {width: 40px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912754703476080700/citer_neon.png") center no-repeat;}
+body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/l_edit10.gif"] {width: 40px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912754703773884466/editer_neon.png") center no-repeat;}
+body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/l_dele10.gif"] {width: 21px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912754704130404432/X_neon.png") center no-repeat;}
+body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/l_prof10.gif"] {width: 40px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912759780286824458/profil_neon.png") center no-repeat;}
+body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/l_priv10.gif"] {width: 28px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912759779678625832/mp_neon.png") center no-repeat;}
 body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/l_fich10.gif"] {width: 40px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912759779485683763/fiche_neon.png") center no-repeat;}
 body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/l_pers10.gif"] {width: 115px;height: 20px;background: url("https://cdn.discordapp.com/attachments/782166024816295937/912759779942883388/perso_neon.png") center no-repeat;}
 
@@ -399,11 +399,11 @@ body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {
 
 /* Boutons Citer - Editer - X - Profil - MP - Fiche - Partie Perso */
 
-body.hollywood .i_icon_quote {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913165058710847578/citer_hollywood.png)}
-body.hollywood .i_icon_edit {width: 65px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170427814236260/editer_hollywood.png)}
-body.hollywood .i_icon_delete {width: 21px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170429064118292/X_hollywood.png)}
-body.hollywood .i_icon_profile {width: 40px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170428871209000/profil_hollywood.png)}
-body.hollywood .i_icon_pm {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170428518871040/mp_hollywood.png)}
+body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_quot10.gif"] {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913165058710847578/citer_hollywood.png)}
+body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_edit10.gif"] {width: 65px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170427814236260/editer_hollywood.png)}
+body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_dele10.gif"] {width: 21px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170429064118292/X_hollywood.png)}
+body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_prof10.gif"] {width: 40px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170428871209000/profil_hollywood.png)}
+body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_priv10.gif"] {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170428518871040/mp_hollywood.png)}
 body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_fich10.gif"] {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170428166553660/fiche_hollywood.png)}
 body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_pers10.gif"] {width: 115px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913170428703440936/perso_hollywood.png)}
 body.hollywood img[src="https://i.servimg.com/u/f23/20/37/66/52/l_emai10.gif"] {}
@@ -548,11 +548,11 @@ body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/t_verr10.gif"] {backg
 
 /* Boutons Citer - Editer - X - Profil - MP - Fiche - Partie Perso */
 
-body.noel .i_icon_quote {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177924532854865/citer_noel.png)}
-body.noel .i_icon_edit {width: 65px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177924717379604/editer_noel.png)}
-body.noel .i_icon_delete {width: 21px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177925807931442/X_noel.png)}
-body.noel .i_icon_profile {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177925623361606/profil_noel.png)}
-body.noel .i_icon_pm {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177925141024828/mp_noel.png)}
+body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_quot10.gif"] {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177924532854865/citer_noel.png)}
+body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_edit10.gif"] {width: 65px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177924717379604/editer_noel.png)}
+body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_dele10.gif"] {width: 21px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177925807931442/X_noel.png)}
+body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_prof10.gif"] {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177925623361606/profil_noel.png)}
+body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_priv10.gif"] {width: 28px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177925141024828/mp_noel.png)}
 body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_fich10.gif"] {width: 61px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177924939685888/fiche_noel.png)}
 body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_pers10.gif"] {width: 80px; height: 20px;background: url(https://cdn.discordapp.com/attachments/782166024816295937/913177925434630174/perso_noel.png)}
 body.noel img[src="https://i.servimg.com/u/f23/20/37/66/52/l_emai10.gif"] {}
