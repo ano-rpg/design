@@ -524,7 +524,10 @@ body.noel .bodyline {
 	border-image-source: linear-gradient(180deg, hsla(var(--accent-hue, 200), 50%, 30%, 0) 0px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 250px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 100%)!important;
 }
 
-body.noel a:not(.mainmenu), body.noel a:not(.mainmenu):link, body.noel a:not(.mainmenu):visited, body.noel a:not(.mainmenu):hover {
+body.noel a:not(.mainmenu),
+body.noel a:not(.mainmenu):link,
+body.noel a:not(.mainmenu):visited,
+body.noel a:not(.mainmenu):hover {
   color: #e8ddb9;
 }
 
@@ -538,6 +541,10 @@ body.noel .nav{
 
 body.noel .pa_title{
   color: #dad1be!important;
+}
+
+body.noel .ano_pa_topsite_links a {
+	background-image: url(https://cdn.discordapp.com/attachments/782166024816295937/913397449626882088/Xmas_tree.png);
 }
 
 /* Boutons Nouveau - Repondre - Verrouille */
@@ -626,8 +633,4 @@ body.noel .S_sum {
 
 body.noel .S_sum:hover {
     background-color: var(--accent-color);
-}
-
-body.noel a:not(.mainmenu):hover {
-    color: #831a22!important;
 }
