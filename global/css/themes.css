@@ -69,6 +69,13 @@ body.retro #i_logo {
 	box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
 }
 
+@media screen and (min-width: 1921px) {
+	body.retro #i_logo {
+		content: url("https://cdn.discordapp.com/attachments/782166024816295937/913446944347656273/art_deco.png");
+		margin-top:30px;
+	}
+}
+
 body.retro .bodylinewidth {
 	width: 920px;
 }
@@ -321,6 +328,13 @@ body.hollywood {
 body.hollywood #i_logo {
   content: url("https://cdn.discordapp.com/attachments/782166024816295937/913408469514723328/ban-holly-1920.gif");
   margin-top:30px;
+}
+
+@media screen and (min-width: 1921px) {
+	body.hollywood #i_logo {
+		content: url("https://cdn.discordapp.com/attachments/782166024816295937/913408469795762207/ban-hollywood.gif");
+		margin-top:30px;
+	}
 }
 
 body.hollywood > a[href="/"] {
