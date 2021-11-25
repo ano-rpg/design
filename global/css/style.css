@@ -168,13 +168,14 @@ input, select, textarea {
 }
 
 #i_logo {
-	max-width: 100%;
+	width: 100%;
 }
 
 body > a[href="/"]{
 	display: block;
 	background: linear-gradient(to bottom, var(--accent-color) 90%, transparent 90%);
 	text-align: center;
+	width: 100%;
 }
 
 /*******************
