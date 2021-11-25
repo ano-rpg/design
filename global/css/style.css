@@ -84,6 +84,19 @@
 	BACKGROUND-COLOR:var(--accent-color,#999)
 }
 
+/* GROUPES */
+
+[style*="#B785E6" i] {color: var(--g-pnj)!important;}
+[style*="#0093AD" i] {color: var(--g-l-ordre)!important;}
+[style*="#FF2929" i] {color: var(--g-sanguinaire)!important;}
+[style*="#D68585" i] {color: var(--g-sang-blanc)!important;}
+[style*="#DED788" i] {color: var(--g-damballa)!important;}
+[style*="#58A878" i] {color: var(--g-pawnees)!important;}
+[style*="#02733D" i] {color: var(--g-enrages)!important;}
+[style*="#5C0000" i] {color: var(--g-confrerie)!important;}
+[style*="#F5914F" i] {color: var(--g-resistance)!important;}
+[style*="#807248" i] {color: var(--g-neutres)!important;}
+
 /* SURCHARGE FA */
 
 .bodyline {
@@ -161,6 +174,7 @@ input, select, textarea {
 body > a[href="/"]{
 	display: block;
 	background: linear-gradient(to bottom, var(--accent-color) 90%, transparent 90%);
+	text-align: center;
 }
 
 /*******************

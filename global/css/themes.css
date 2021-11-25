@@ -64,7 +64,7 @@ body.retro {
 }
 
 body.retro #i_logo {
-	content: url("https://media.discordapp.net/attachments/782174816513032213/911614040529334312/art_deco.png");
+	content: url("https://cdn.discordapp.com/attachments/782166024816295937/913446943932416050/art_deco_1920.png");
 	margin-top:30px;
 	box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
 }
@@ -319,7 +319,7 @@ body.hollywood {
 }
 
 body.hollywood #i_logo {
-  content: url("https://cdn.discordapp.com/attachments/898934214039314472/912086895645818960/ban-hollywood.gif");
+  content: url("https://cdn.discordapp.com/attachments/782166024816295937/913408469514723328/ban-holly-1920.gif");
   margin-top:30px;
 }
 
@@ -328,13 +328,12 @@ body.hollywood > a[href="/"] {
 }
 
 body.hollywood > a[href="/"]:after {
-	content: "";
-	display: block;
-	width: 93%;
-	height: 1px;
-	box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
-	margin-top: -2px;
-	margin-left: 3%;
+    content: "";
+    display: block;
+    width: 1800px;
+    height: 1px;
+    box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+    margin: -2px 80px 0 auto;
 }
 
 body.hollywood .bodyline {
@@ -510,9 +509,14 @@ body.noel {
 	background-repeat: no-repeat, repeat;
 	--fow-bg: #00443d!important;
 	--title-2-bg: #831a22;
+	--accent-hue: 355!important;
 	--accent-color: #831a22!important;
+	--pulse_bg-hue: var(--accent-hue, 355)!important;
 	--title-txt: #d8cfbd;
 	--fow-txt: rgb(204 196 178);
+
+	--g-sanguinaire:#fd4949;
+	--g-confrerie:#1a0404;
 }
 
 body.noel .bodyline {
@@ -545,6 +549,11 @@ body.noel .pa_title{
 
 body.noel .ano_pa_topsite_links a {
 	background-image: url(https://cdn.discordapp.com/attachments/782166024816295937/913397449626882088/Xmas_tree.png);
+}
+
+body.noel .fow_links a:hover, body.noel .buttonspartos a:hover {
+    color: var(--title-2-bg)!important;
+    background-color: var(--title-txt)!important;
 }
 
 /* Boutons Nouveau - Repondre - Verrouille */
