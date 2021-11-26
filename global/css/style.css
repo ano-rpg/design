@@ -1154,7 +1154,7 @@ ul#notif_list {
 }
 
 .buttonspartos a {
-	margin:0;
+	margin:0!important;
 }
 
 .buttonspartos{
@@ -1162,6 +1162,8 @@ ul#notif_list {
 	display:flex;
 	justify-content:space-around;
 	margin-top: 10px;
+	background: var(--title-2-bg);
+	padding: 10px;
 }
 
 /*******************
