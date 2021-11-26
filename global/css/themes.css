@@ -552,7 +552,8 @@ body.noel {
 
 body.noel .bodyline {
 	padding: 100px 10px 10px 10px!important;
-	background: linear-gradient(180deg, rgb(10 10 10 / 0%) 0px, rgb(208 199 181) 250px, rgb(130 26 35) 100%);
+	/* background: linear-gradient(180deg, rgb(10 10 10 / 0%) 0px, rgb(208 199 181) 250px, rgb(130 26 35) 100%); */
+	background: linear-gradient(180deg, rgb(10 10 10 / 0%) 0px, rgb(208 199 181) 130px, rgb(208 199 181) 100%);
 	border: 1px solid!important;
 	border-width: 0px 1px!important;
 	border-image-slice: 1!important;
@@ -563,17 +564,22 @@ body.noel a:not(.mainmenu),
 body.noel a:not(.mainmenu):link,
 body.noel a:not(.mainmenu):visited,
 body.noel a:not(.mainmenu):hover {
-  color: #e8ddb9;
+  /* color: #e8ddb9; */
+  color: #978347;
+}
+
+#nav_bar a.mainmenu img:hover {
+    --accent-color: #978347!important;
 }
 
 body.noel #fa_toolbar #fa_right #notif_list li .contentText a {
 	color: #d3d3d3!important;
 }
-
+/*
 body.noel .nav{
 	text-shadow: 1px 1px 2px black;
 }
-
+*/
 body.noel .pa_title{
   color: #dad1be!important;
 }
@@ -619,6 +625,7 @@ body.noel .post_info_cover {
 body.noel .codebox dd {
 	background-color: #dbcfae;
 	border: solid 1px #8f2427;
+	color: #00443d;
 }
 
 body.noel .spoiler_content {
