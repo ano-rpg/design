@@ -672,7 +672,7 @@ body.noel .P_vracsec {
 
 body.noel .P_vrac b,
 body.noel .P_vracsec b {
-    color: var(--accent-color);
+    color: darkgoldenrod;
 }
 
 body.noel .P_cadre h2 {
