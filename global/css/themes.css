@@ -565,11 +565,11 @@ body.noel a:not(.mainmenu):link,
 body.noel a:not(.mainmenu):visited,
 body.noel a:not(.mainmenu):hover {
   /* color: #e8ddb9; */
-  color: #978347;
+  color: darkgoldenrod;
 }
 
 #nav_bar a.mainmenu img:hover {
-    --accent-color: #978347!important;
+    --accent-color: darkgoldenrod!important;
 }
 
 body.noel #fa_toolbar #fa_right #notif_list li .contentText a {
@@ -668,6 +668,11 @@ body.noel .P_vrac,
 body.noel .P_vracsec {
     background-color: #69080c;
     color: #dbd2bf;
+}
+
+body.noel .P_vrac b,
+body.noel .P_vracsec b {
+    color: var(--accent-color);
 }
 
 body.noel .P_cadre h2 {
