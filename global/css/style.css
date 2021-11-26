@@ -2043,6 +2043,12 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
 	margin-right: 10px;
 }
 
+/* Masque champ de contact - email */
+
+a[href^="/profile?mode=email&u="] {
+    display: none;
+}
+
 /* "Achats - line height normal */
 #field_id11 {
 	line-height: 1.2em;
