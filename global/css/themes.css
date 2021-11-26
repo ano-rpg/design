@@ -73,6 +73,7 @@ body.retro #i_logo {
 	body.retro #i_logo {
 		content: url("https://cdn.discordapp.com/attachments/782166024816295937/913446944347656273/art_deco.png");
 		margin-top:30px;
+		box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
 	}
 }
 
@@ -197,9 +198,17 @@ body.neon {
 }
 
 body.neon #i_logo {
-  content: url("https://cdn.discordapp.com/attachments/782174816513032213/910921541380898826/night-vibes.gif");
+  content: url("https://cdn.discordapp.com/attachments/782166024816295937/913853194801647626/ban-neon-1920.gif");
   margin-top:30px;
   box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+}
+
+@media screen and (min-width: 1921px) {
+	body.neon #i_logo {
+		content: url("https://cdn.discordapp.com/attachments/782166024816295937/913851685506523206/night-vibes.gif");
+		margin-top:30px;
+		box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+	}
 }
 
 body.neon .bodylinewidth {
@@ -515,6 +524,14 @@ body.noel #i_logo {
   content: url("https://media.discordapp.net/attachments/782166024816295937/912714193445203968/ban-noel-1920.gif");
   margin-top:30px;
   box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+}
+
+@media screen and (min-width: 1921px) {
+	body.noel #i_logo {
+		content: url("https://cdn.discordapp.com/attachments/782166024816295937/912711311975141436/ban-noel.gif");
+		margin-top:30px;
+		box-shadow: 0 0 5px black, 0 0 10px black, 0 0 10px black;
+	}
 }
 
 body.noel {
