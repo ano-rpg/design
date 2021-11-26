@@ -2086,6 +2086,7 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
 	text-transform: uppercase;
 	font-weight: bold;
 	margin-bottom: 10px;
+    color: var(--title-txt);
 }
 
 .memberlist_search {
