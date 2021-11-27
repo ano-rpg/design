@@ -441,7 +441,12 @@ body.hollywood .post_info_cover {
 }
 
 body.hollywood .post_info_cover:before {
-	background: rgba(0,0,0,0);
+    background: rgb(255 239 194 / 15%);
+    transition: all .5s ease;
+}
+body.hollywood .post_info:hover .post_info_cover:before {
+    background: rgb(255 239 194 / 70%);
+    transition: all .5s ease;
 }
 
 /* Topics - Spoiler */
