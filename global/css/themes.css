@@ -568,7 +568,7 @@ body.noel a:not(.mainmenu):hover {
   color: darkgoldenrod;
 }
 
-#nav_bar a.mainmenu img:hover {
+body.noel #nav_bar a.mainmenu img:hover {
     --accent-color: darkgoldenrod!important;
 }
 
