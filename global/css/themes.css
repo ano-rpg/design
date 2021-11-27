@@ -332,6 +332,9 @@ body.hollywood {
 	--sw-color-squircle: #f9f7e1!important;
 	--sw-color-button: black!important;
 	--sw-color-text: black!important;
+	
+	--g-damballa:#b3ac5c!important;
+	--g-resistance:#ed711f!important;
 }
 
 body.hollywood #i_logo {
