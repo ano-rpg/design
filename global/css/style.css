@@ -1221,8 +1221,8 @@ ul#notif_list {
 
 .fow_img img {
 	background-color: var(--accent-color);
-	width: 10px;
-	height: 100%;
+	width: 10px!important;
+	height: 100%!important;
 }
 
 /* 
@@ -1237,15 +1237,15 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
 */
 
 .fow_img img[src="https://i.servimg.com/u/f23/20/37/66/52/old10.gif"] {
-	background-color: var(--accent-color);
+	background-color: var(--accent-color)!important;
 }
 
 .fow_img img[src="https://i.servimg.com/u/f23/20/37/66/52/new10.gif"] {
-	animation: pulse_bg 2s infinite;
+	animation: pulse_bg 2s infinite!important;
 }
 
 .fow_img img[src="https://i.servimg.com/u/f23/20/37/66/52/locked10.gif"] {
-	background-color: var(--img-locked-bg, #242424);
+	background-color: var(--img-locked-bg, #242424)!important;
 }
 
 .fow_desc {
