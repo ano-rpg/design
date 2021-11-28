@@ -1262,6 +1262,7 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
 .fow_desc_txt {
   height: 100%;
   overflow: auto;
+  padding-left:5px;
   padding-right:5px;
   text-align: justify;
 }
