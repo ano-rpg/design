@@ -1262,15 +1262,16 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
 .fow_desc_txt {
   height: 100%;
   overflow: auto;
-  padding-left:5px;
+  padding-right:5px;
+  text-align: justify;
 }
 
-.fow_desc_txt:not(.sans_image) {
+.fow_desc_txt.avec_image {
 	border-top: 100px solid transparent;
 	transition: all .5s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
-.fow_desc_txt:not(.sans_image) > img[style="float:left"] {
+.fow_desc_txt.avec_image > img[style="float:left"] {
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -1285,12 +1286,12 @@ ANCE  : https://i.servimg.com/u/f23/20/37/66/52/ance10.gif
     mask-image: linear-gradient(to right, transparent, black 10% 90%, transparent);
 }
 
-.fow_desc_txt:not(.sans_image):hover {
+.fow_desc_txt.avec_image.avec_texte:hover {
 	border-top: 0px solid transparent;
 	transition: all .5s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
-.fow_desc_txt:not(.sans_image):hover > img[style="float:left"] {
+.fow_desc_txt.avec_image.avec_texte:hover > img[style="float:left"] {
 	top: -70px;
 	transition: all .5s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
