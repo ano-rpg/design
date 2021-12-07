@@ -472,7 +472,8 @@ body.hollywood .spoiler_content {
 
 /* Codes fiches */
 
-body.hollywood .S_cadre {
+body.hollywood .S_cadre,
+body.hollywood .R_cadre {
 	background-color: #f9f7e1;
 	border: 1px solid #ffffff;
 }
@@ -650,7 +651,8 @@ body.noel .spoiler_content {
 
 /* Codes fiches */
 
-body.noel .S_cadre {
+body.noel .S_cadre,
+body.noel .R_cadre {
 	background-color: #cdc5b3;
 	background-image: linear-gradient(to bottom, rgb(209 200 182 / 20%), rgb(209 200 182 / 50%)), url(http://lorrainequebec.fr/img/jas383/guirlande.png);
 	background-repeat: no-repeat;
