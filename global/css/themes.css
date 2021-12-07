@@ -473,7 +473,8 @@ body.hollywood .spoiler_content {
 /* Codes fiches */
 
 body.hollywood .S_cadre,
-body.hollywood .R_cadre {
+body.hollywood .R_cadre,
+body.hollywood .Pr_cadre {
 	background-color: #f9f7e1;
 	border: 1px solid #ffffff;
 }
@@ -482,7 +483,8 @@ body.hollywood .S_Title {
 	color: #060606;font-family: 'Parisienne', cursive;font-weight:bold;
 }
 
-body.hollywood .S_cadre h1 {
+body.hollywood .S_cadre h1,
+body.hollywood .Pr_cadre h1 {
 	color: #0c0c0c;
 	font-family: 'Parisienne', cursive;
 	font-size: 25px;
@@ -532,6 +534,10 @@ body.hollywood .S_sum {
 
 body.hollywood .S_sum:hover {
 	background-color: var(--accent-color);
+}
+
+body.hollywood .Pr_top span {
+    background: var(--accent-color);
 }
 
 /******************************* THEME NOEL *********************************/
@@ -652,7 +658,8 @@ body.noel .spoiler_content {
 /* Codes fiches */
 
 body.noel .S_cadre,
-body.noel .R_cadre {
+body.noel .R_cadre,
+body.noel .Pr_cadre {
 	background-color: #cdc5b3;
 	background-image: linear-gradient(to bottom, rgb(209 200 182 / 20%), rgb(209 200 182 / 50%)), url(http://lorrainequebec.fr/img/jas383/guirlande.png);
 	background-repeat: no-repeat;
@@ -666,7 +673,8 @@ body.noel .S_Title {
 	font-family: 'Pacifico', cursive;
 }
 
-body.noel .S_cadre h1 {
+body.noel .S_cadre h1,
+body.noel .Pr_cadre h1 {
 	color: #00443d;
 	font-family: 'Pacifico', cursive;
 }
@@ -702,4 +710,8 @@ body.noel .S_sum {
 
 body.noel .S_sum:hover {
     background-color: var(--accent-color);
+}
+
+body.noel .Pr_top span {
+    background: var(--accent-color);
 }
