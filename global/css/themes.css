@@ -312,7 +312,7 @@ body.neon .P_cadre h2{
 
 
 body.hollywood {
-	background-image: linear-gradient(to bottom, rgb(255 255 255 / 10%), rgb(255 255 255 / 30%)), url(https://cdn.shopify.com/s/files/1/0131/4180/3065/products/AV245_Antique_Shop_ANTIQUESHOP_400x400.jpg?v=1635183375);
+	background-image: linear-gradient(to bottom, rgb(255 255 255 / 10%), rgb(255 255 255 / 30%)), url(https://cdn.discordapp.com/attachments/782166024816295937/921381180299968532/hollywood_pattern.jpg);
 	background-attachment: fixed, fixed;
 	background-repeat: no-repeat, repeat;
 	background-size: cover, 190px;
@@ -539,6 +539,13 @@ body.hollywood .S_sum:hover {
 body.hollywood .Pr_top span {
     background: var(--accent-color);
 }
+
+/* Messages Imprevu */
+
+body.hollywood .D_txt {
+    color: lightgrey;
+}
+
 
 /******************************* THEME NOEL *********************************/
 
