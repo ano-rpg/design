@@ -33,6 +33,7 @@
 	--g-resistance: #F5914F;
 	--g-neutres: #807248;
 	--g-confrerie:#811B1B;
+	--g-sororite:#F000BC;
 }
 
 /* VARIABLES - SWITCHEROO */
@@ -96,6 +97,7 @@
 [style*="#811B1B" i] {color: var(--g-confrerie)!important;}
 [style*="#F5914F" i] {color: var(--g-resistance)!important;}
 [style*="#807248" i] {color: var(--g-neutres)!important;}
+[style*="#F000BC" i] {color: var(--g-sororite)!important;}
 
 /* SURCHARGE FA */
 
