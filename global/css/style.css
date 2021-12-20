@@ -153,8 +153,9 @@ th, .thLeft, .thRight {
 .row3,.row3.over,.row3Right,
 .fb_or {
 	background-color: var(--fow-bg, inherit)!important;
-	color: var(--title-txt)!important;
-}
+	/* color: var(--title-txt)!important; */
+	color: var(--fow-txt)!important;
+} 
 
 input, select, textarea {
 	background-color: var(--title-2-bg)!important;
