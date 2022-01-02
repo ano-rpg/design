@@ -1860,8 +1860,14 @@ img[src="https://i.servimg.com/u/f23/20/37/66/52/locked10.gif"] {
 
 /* BBCODE PERSONNALISE DANS SCEDITOR */
 
-.sceditor-button-usercode div {
+.sceditor-button-usercode div,
+.sceditor-button-paroles div {
 	background: url('https://i.servimg.com/u/f44/20/29/00/76/star10.png')!important;
+	background-size: 16px 16px!important;
+}
+
+.sceditor-button-habillage div {
+	background: url('https://i.ibb.co/XX3SrN1/fav-habillage.png')!important;
 	background-size: 16px 16px!important;
 }
 
