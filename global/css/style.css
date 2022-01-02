@@ -1679,7 +1679,8 @@ img[src="https://i.servimg.com/u/f23/20/37/66/52/locked10.gif"] {
 }
 
 #field_id12,
-#field_id15{
+#field_id15,
+#field_id16{
 	/* Field for profile's custom cover AND Fav BBCode */
 	display: none;
 }
