@@ -605,6 +605,10 @@ body.noel #fa_toolbar #fa_right #notif_list li .contentText a {
 	color: #d3d3d3!important;
 }
 
+body.noel #fa_toolbar #fa_right #notif_list li.see_all a {
+    color: darkgoldenrod!important;
+}
+
 body.noel .nav{
 	color: darkgoldenrod;
 }
