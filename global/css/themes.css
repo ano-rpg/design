@@ -113,7 +113,7 @@ body.retro .post_online{
 }
 
 body.retro .fow_row {
-    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+    background-image: none;
 }
 
 body.retro .qeel_content > div {
@@ -283,7 +283,7 @@ body.neon .post_online{
   background-repeat: no-repeat;
 }
 body.neon .fow_row {
-    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+    background-image: none;
 }
 
 body.neon {
@@ -438,7 +438,7 @@ body.hollywood .ano_pa_topsite_links a {
 }
 
 body.hollywood .fow_row {
-    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+    background-image: none;
 }
 
 body.hollywood .post_online{
