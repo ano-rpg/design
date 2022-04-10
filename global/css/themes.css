@@ -11,7 +11,7 @@ body {
 }
 
 body #i_logo {
-	content: url("https://zupimages.net/up/22/14/kvx7.png");
+	content: url("https://zupimages.net/up/22/14/kvx7.png")!important;
 	margin-top:30px;
 }
 
