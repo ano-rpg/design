@@ -142,6 +142,10 @@ body.retro .bodyline {
 	border-image-source: linear-gradient(180deg, rgba(172,138,0,0) 0%, rgba(172,138,0,.4) 250px, rgba(172,138,0,.4) 100%)!important;
 }
 
+body.retro #nav_bar{
+  background-image:none;
+}
+
 /* Scrollbar */
 
 html.retro ::-webkit-scrollbar-thumb {
@@ -297,6 +301,10 @@ body.neon .ano_pa_title {
   color:#7e2a53!important;
 }
 
+body.neon #nav_bar{
+  background-image:none;
+}
+
 /* Scrollbar */
 
 html.neon ::-webkit-scrollbar-thumb {
@@ -427,6 +435,10 @@ body.hollywood > a[href="/"]:after {
 
 body.hollywood .bodyline {
 	background: linear-gradient(180deg, rgb(215 215 215 / 0%) 0px, rgb(254 229 169) 250px, rgb(255 229 168) 100%);
+}
+
+body.hollywood #nav_bar{
+  background-image:none;
 }
 
 body.hollywood #nav_bar {
