@@ -112,6 +112,10 @@ body.retro .post_online{
   background-repeat: no-repeat;
 }
 
+body.retro .qeel_content > div {
+    background-image:none;
+}
+
 body.retro {
 	background-image: linear-gradient(to bottom, rgb(0 0 0 / 75%), rgb(0 0 0 / 95%)),url("https://cdn.discordapp.com/attachments/782174816513032213/911753896416915456/bg_retro.png");
 	background-attachment: fixed, fixed;
@@ -416,6 +420,10 @@ body.neon .P_cadre h2{
 	font-family: 'Kaushan Script', cursive;
 }
 
+body.neon .qeel_content > div {
+    background-image:none;
+}
+
 /******************************* THEME HOLLYWOOD *********************************/
 
 body.hollywood .ano_pa_topsite_links a {
@@ -426,6 +434,10 @@ body.hollywood .post_online{
   background-image:url(https://2img.net/i/fa/prosilver/icon_user_online.png);
   background-position: right;
   background-repeat: no-repeat;
+}
+
+body.hollywood .qeel_content > div {
+    background-image:none;
 }
 
 body.hollywood {
