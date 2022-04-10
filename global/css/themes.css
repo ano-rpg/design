@@ -1,4 +1,8 @@
 /***************************** THEME DEFAUT *****************************/
+body .post_online{
+  background-position: right;
+  background-repeat: no-repeat;
+}
 
 body {
   background-color:#000000;
@@ -102,6 +106,11 @@ body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_pers10.gif"] {width: 80p
 body img[src="https://i.servimg.com/u/f23/20/37/66/52/l_emai10.gif"] {}
 
 /***************************** THEME RETRO *****************************/
+body.retro .post_online{
+  background-image:url(https://2img.net/i/fa/prosilver/icon_user_online.png);
+  background-position: right;
+  background-repeat: no-repeat;
+}
 
 body.retro {
 	background-image: linear-gradient(to bottom, rgb(0 0 0 / 75%), rgb(0 0 0 / 95%)),url("https://cdn.discordapp.com/attachments/782174816513032213/911753896416915456/bg_retro.png");
@@ -260,6 +269,12 @@ body.retro .ano_pa_topsite_links a {
 
 /***************************** THEME NEON *****************************/
 
+body.neon .post_online{
+  background-image:url(https://2img.net/i/fa/prosilver/icon_user_online.png);
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
 body.neon {
 	background-image: linear-gradient(to bottom, rgb(0 0 0 / 55%), rgb(0 0 0 / 75%)), url(https://static.vecteezy.com/ti/photos-gratuite/p1/2317574-mur-de-brique-vide-avec-neon-bleu-et-rose-gratuit-photo.jpg);
 	background-attachment: fixed, fixed;
@@ -405,6 +420,12 @@ body.neon .P_cadre h2{
 
 body.hollywood .ano_pa_topsite_links a {
     background-image: url(https://cdn.discordapp.com/attachments/782166043262320640/796090183967178782/Test.png);
+}
+
+body.hollywood .post_online{
+  background-image:url(https://2img.net/i/fa/prosilver/icon_user_online.png);
+  background-position: right;
+  background-repeat: no-repeat;
 }
 
 body.hollywood {
