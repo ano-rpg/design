@@ -238,6 +238,10 @@ body.retro #P_title {
 	  -moz-text-fill-color: transparent;
   }
 
+body.retro .ano_pa_topsite_links a {
+    background-image: url(https://cdn.discordapp.com/attachments/782166043262320640/796090183967178782/Test.png);
+}
+
 /***************************** THEME NEON *****************************/
 
 body.neon {
@@ -315,6 +319,10 @@ body.neon .sprite-icon_topic_newest {
 	height: 10px;
 }
 
+body.neon .ano_pa_topsite_links a {
+    background-image: url(https://cdn.discordapp.com/attachments/782166043262320640/796090183967178782/Test.png);
+}
+
 /* Boutons Nouveau - Repondre - Verrouille */
 
 body.neon img[src="https://i.servimg.com/u/f23/20/37/66/52/t_nouv10.gif"] {background-image: url("https://cdn.discordapp.com/attachments/782166024816295937/912748935649587231/new_neon.png")}
@@ -362,6 +370,9 @@ body.neon .P_cadre h2{
 
 /******************************* THEME HOLLYWOOD *********************************/
 
+body.hollywood .ano_pa_topsite_links a {
+    background-image: url(https://cdn.discordapp.com/attachments/782166043262320640/796090183967178782/Test.png);
+}
 
 body.hollywood {
 	background-image: linear-gradient(to bottom, rgb(255 255 255 / 10%), rgb(255 255 255 / 30%)), url(https://cdn.discordapp.com/attachments/782166024816295937/921381180299968532/hollywood_pattern.jpg);
