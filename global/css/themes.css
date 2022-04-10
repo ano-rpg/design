@@ -2,52 +2,6 @@
 
 
 
-
-
-body.destroy .ano_pa_col > div {
-  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
-}
-
-body.destroy .qeel_content > div {
-    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
-}
-
-body.destroy .fow_row{
-  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
-}
-
-body.destroy .post_info_cover {
-    background: url(https://zupimages.net/up/22/14/dyzx.png) bottom center, var(--cover-color);
-}
-
-body.destroy .post_online{
-  background-image:url(https://zupimages.net/up/22/14/xkpi.png)
-}
-
-body.destroy .fow_links a, .buttonspartos a {
-    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
-}
-
-body.destroy .fow_links a:hover, .buttonspartos a:hover {
-    color: lightgrey!important;
-}
-
-body.destroy .S_cadre{
-  background-image: url(https://zupimages.net/up/22/14/tjzj.png);
-}
-
-body.destroy .S_Title {
-    color: #680e0e;
-}
-
-body.destroy .P_cadre{
-  background-image: url(https://zupimages.net/up/22/14/tjzj.png);
-}
-
-body.destroy .ano_pa_topsite_links a {
-    background-image: url(https://zupimages.net/up/22/14/cg8v.png);
-}
-
 /***************************** THEME DEFAUT *****************************/
 
 body {
@@ -80,6 +34,50 @@ body .bodyline {
 	border-width: 0px 1px!important;
 	border-image-slice: 1!important;
 	border-image-source: linear-gradient(180deg, hsla(var(--accent-hue, 200), 50%, 30%, 0) 0px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 250px, hsla(var(--accent-hue, 200), 50%, 30%, 1) 100%)!important;
+}
+
+body .ano_pa_col > div {
+  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body .qeel_content > div {
+    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body .fow_row{
+  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body .post_info_cover {
+    background: url(https://zupimages.net/up/22/14/dyzx.png) bottom center, var(--cover-color);
+}
+
+body .post_online{
+  background-image:url(https://zupimages.net/up/22/14/xkpi.png)
+}
+
+body .fow_links a, .buttonspartos a {
+    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body .fow_links a:hover, .buttonspartos a:hover {
+    color: lightgrey!important;
+}
+
+body .S_cadre{
+  background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body .S_Title {
+    color: #680e0e;
+}
+
+body .P_cadre{
+  background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body .ano_pa_topsite_links a {
+    background-image: url(https://zupimages.net/up/22/14/cg8v.png);
 }
 
 /* Boutons Nouveau - Repondre - Verrouille */
