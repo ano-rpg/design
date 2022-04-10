@@ -150,6 +150,14 @@ body.retro .ano_pa_col > div {
     background-image: none;
 }
 
+body.retro .S_cadre{
+  background-image: none;
+}
+
+body.retro .P_cadre{
+  background-image: none;
+}
+
 /* Scrollbar */
 
 html.retro ::-webkit-scrollbar-thumb {
@@ -313,6 +321,14 @@ body.neon .ano_pa_col > div {
     background-image: none;
 }
 
+body.neon .S_cadre{
+  background-image: none;
+}
+
+body.neon .P_cadre{
+  background-image: none;
+}
+
 /* Scrollbar */
 
 html.neon ::-webkit-scrollbar-thumb {
@@ -464,6 +480,14 @@ body.hollywood .ano_pa_top_parto img {
 
 body.hollywood .topic_stats_container > span {
 	text-shadow: none;
+}
+
+body.hollywood .S_cadre{
+  background-image: none;
+}
+
+body.hollywood .P_cadre{
+  background-image: none;
 }
 
 body.hollywood .topic_description {
