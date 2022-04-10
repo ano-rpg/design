@@ -726,3 +726,67 @@ body.noel .S_sum:hover {
 body.noel .Pr_top span {
     background: var(--accent-color);
 }
+
+/******************************* THEME DESTROY *********************************/
+
+body.destroy #i_logo {
+    content: url(https://zupimages.net/up/22/14/kvx7.png);
+    margin-top: 30px;
+}
+
+body.destroy #nav_bar{
+  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body.destroy {
+  background-color:#000000;
+
+  --accent-color: #680e0e;
+  --fow-bg: #141415!important;
+  --accent-hue: 360;
+  --title-2-bg: #000000;
+}
+
+body.destroy .ano_pa_col > div {
+  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body.destroy .qeel_content > div {
+    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body.destroy .fow_row{
+  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body.destroy .post_info_cover {
+    background: url(https://zupimages.net/up/22/14/dyzx.png) bottom center, var(--cover-color);
+}
+
+body.destroy .post_online{
+  background-image:url(https://zupimages.net/up/22/14/xkpi.png)
+}
+
+body.destroy .fow_links a, .buttonspartos a {
+    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body.destroy .fow_links a:hover, .buttonspartos a:hover {
+    color: lightgrey!important;
+}
+
+body.destroy .S_cadre{
+  background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body.destroy .S_Title {
+    color: #680e0e;
+}
+
+body.destroy .P_cadre{
+  background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
+body.destroy .ano_pa_topsite_links a {
+    background-image: url(https://zupimages.net/up/22/14/cg8v.png);
+}
