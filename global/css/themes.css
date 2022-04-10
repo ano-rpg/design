@@ -146,6 +146,10 @@ body.retro #nav_bar{
   background-image:none;
 }
 
+body.retro .ano_pa_col > div {
+    background-image: none;
+}
+
 /* Scrollbar */
 
 html.retro ::-webkit-scrollbar-thumb {
@@ -305,6 +309,10 @@ body.neon #nav_bar{
   background-image:none;
 }
 
+body.neon .ano_pa_col > div {
+    background-image: none;
+}
+
 /* Scrollbar */
 
 html.neon ::-webkit-scrollbar-thumb {
@@ -439,10 +447,11 @@ body.hollywood .bodyline {
 
 body.hollywood #nav_bar{
   background-image:none;
+  box-shadow: 0px 0px 2px #424242, 2px 2px 3px #5e5e5e;
 }
 
-body.hollywood #nav_bar {
-	box-shadow: 0px 0px 2px #424242, 2px 2px 3px #5e5e5e;
+body.hollywood .ano_pa_col > div {
+    background-image: none;
 }
 
 body.hollywood .ano_pa_staff_text{
