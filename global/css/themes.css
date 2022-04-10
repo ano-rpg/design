@@ -2,6 +2,7 @@
 
 body {
   background-color:#000000;
+  --accent-color: #680e0e;
   --fow-bg: #141415!important;
   --accent-hue: 360;
   --title-2-bg: #000000;
@@ -266,6 +267,7 @@ body.neon {
 	--fow-bg: #0e0e0e!important;
 	--sceditor-border: #191919!important;
 	--sceditor-txt: rgba(142,142,142,1)!important;
+	--accent-color:hsl(205deg 61% 56%)!important;
 }
 
 body.neon #i_logo {
