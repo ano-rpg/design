@@ -10,13 +10,13 @@ body {
   --sceditor-txt: rgba(142,142,142,1)!important;
 }
 
-body #nav_bar{
-  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
-}
-
 body #i_logo {
 	content: url("https://zupimages.net/up/22/14/kvx7.png");
 	margin-top:30px;
+}
+
+body #nav_bar{
+  background-image:url(https://zupimages.net/up/22/14/tjzj.png);
 }
 
 body .bodylinewidth {
