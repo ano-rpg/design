@@ -112,6 +112,10 @@ body.retro .post_online{
   background-repeat: no-repeat;
 }
 
+body.retro .fow_row {
+    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
+
 body.retro .qeel_content > div {
     background-image:none;
 }
@@ -278,6 +282,9 @@ body.neon .post_online{
   background-position: right;
   background-repeat: no-repeat;
 }
+body.neon .fow_row {
+    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
+}
 
 body.neon {
 	background-image: linear-gradient(to bottom, rgb(0 0 0 / 55%), rgb(0 0 0 / 75%)), url(https://static.vecteezy.com/ti/photos-gratuite/p1/2317574-mur-de-brique-vide-avec-neon-bleu-et-rose-gratuit-photo.jpg);
@@ -428,6 +435,10 @@ body.neon .qeel_content > div {
 
 body.hollywood .ano_pa_topsite_links a {
     background-image: url(https://cdn.discordapp.com/attachments/782166043262320640/796090183967178782/Test.png);
+}
+
+body.hollywood .fow_row {
+    background-image: url(https://zupimages.net/up/22/14/tjzj.png);
 }
 
 body.hollywood .post_online{
