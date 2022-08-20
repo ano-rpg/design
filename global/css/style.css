@@ -1608,8 +1608,8 @@ grid-area: avatarlastmember;
 }
 
 .avatarlastmember img{
-    max-width: 100%!important;
-      margin-top: -25px;
+    width: 100%!important;
+    margin-top: -25px;
 }
 
 .q_groups { grid-area: q_groups;}
