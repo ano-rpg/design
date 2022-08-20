@@ -1032,8 +1032,12 @@ ul#notif_list {
 	text-decoration: none!important;
 }
 
+#fa_toolbar #fa_right #notif_list li.unread .contentText a {
+    color: var(--title-2-bg)!important;
+}
+
 #fa_toolbar #fa_right #notif_list li.see_all a {
-	color: var(---accent-color)!important;
+	color: var(--accent-color)!important;
 }
 
 
