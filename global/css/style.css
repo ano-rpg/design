@@ -11,6 +11,7 @@
 	--fow-bg: #fdead9;
 	--fow-bg-light: #fff7f1;
 	--fow-txt: #000000;
+	--fow-link:#BF4D6B;
 	
 	--title-txt: lightgrey;
 	--title-bg: var(--accent-color);
@@ -54,7 +55,7 @@ body .uwy.userway_p1 .uai {
     color: var(--fow-txt);
 }
 
-a{color:var(--title-txt)}
+a{color:var(--fow-link)}
 
 .topictitle{color: var(--title-3-bg);}
 
