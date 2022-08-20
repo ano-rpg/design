@@ -1613,6 +1613,10 @@ grid-area: avatarlastmember;
 
 .q_recent { grid-area: q_recent;padding: 10px; }
 
+.q_recent .gensmall {
+    font-size: 11px;
+}
+
 .qeel_container {
 	margin-top: 10px;
 }
@@ -1642,6 +1646,7 @@ text-align: right;
 .qeel_content:not(#qeel_parto) > div {
 	background-clip: border-box;
 	background-color: var(--fow-bg);
+	overflow: auto;
 }
 
 .qeel_img {
