@@ -1028,7 +1028,7 @@ ul#notif_list {
 }
 
 #fa_toolbar #fa_right #notif_list li .contentText a {
-	color: var(--accent-color)!important;
+	color: #ffffff!important;
 	text-decoration: none!important;
 }
 
