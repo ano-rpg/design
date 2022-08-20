@@ -1104,7 +1104,7 @@ grid-area: ano_cate_title;
 .ano_cate_title a {
     text-transform: uppercase;
     font-family: 'Raleway', sans-serif;
-    font-size: 18px;
+    font-size: 15px;
     transition: 0.5s;
     color: var(--title-2-bg);
 }
