@@ -65,7 +65,7 @@ a{color:var(--fow-link)}
   color: #000000;
 }
 
-.qeel_container{
+.$_container{
   color: #000000;
 }
 
@@ -1579,12 +1579,12 @@ display: flex;
 
 .qeel_content:not(#qeel_parto) {
       display: grid;
-    grid-template-columns: 390px 100px 1fr;
+    grid-template-columns: 490px 1fr;
     grid-template-rows: 100px 100px 100px;
     gap: 10px;
     grid-auto-flow: row;
     grid-template-areas:
-        "q_stats q_ava q_groups"
+        "q_stats q_stats q_groups"
         "q_online q_online q_groups"
         "q_recent q_recent q_groups";
     background: var(--title-2-bg);
