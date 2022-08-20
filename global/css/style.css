@@ -2309,7 +2309,7 @@ div#qeel_parto {
 .post_info_cover {
     position: absolute;
     z-index: 1;
-    background-image: url(https://i.servimg.com/u/f44/20/29/00/76/test_m10.png) bottom center, var(--cover-color);
+    background: url(https://i.servimg.com/u/f44/20/29/00/76/test_m10.png) bottom center, var(--cover-color);
     background-size: cover;
     overflow: hidden;
     border-bottom: 5px solid var(--cover-color);
