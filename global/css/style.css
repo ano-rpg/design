@@ -1849,7 +1849,7 @@ div#qeel_parto {
 .Pr_top{display:flex} 
 .Pr_top div:nth-of-type(1){width: 41%!important} 
 .Pr_top div:nth-of-type(2){padding-left:2px;width:58%} 
-.Pr_top span{background:##fdead9;color:#000;margin:5px;display:inline-block;vertical-align:top;width:82px;padding:2px 0;overflow:hidden;font-size:9px;font-family:Arial;text-align:center;line-height:12px} 
+.Pr_top span{background:#fdead9;color:#000;margin:5px;display:inline-block;vertical-align:top;width:82px;padding:2px 0;overflow:hidden;font-size:9px;font-family:Arial;text-align:center;line-height:12px} 
 .Pr_mid div:nth-of-type(1){width: 50%!important;border-right:1px solid #2f2f2f} 
 .Pr_mid{display:flex} 
 .Pr_mid div:nth-of-type(2){padding-left:4px;width:60%} 
