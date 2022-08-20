@@ -2313,6 +2313,7 @@ div#qeel_parto {
     background-size: cover;
     overflow: hidden;
     border-bottom: 5px solid var(--cover-color);
+    color: white;
 }
 
 .post_info_cover > span {
