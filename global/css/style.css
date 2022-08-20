@@ -1052,7 +1052,7 @@ ul#notif_list {
 
 .ano_cate {
     display: grid;
-    grid-template-columns: 170px 327px 190px 100px 195px;
+    grid-template-columns: 170px 367px 150px 100px 195px;
     grid-template-rows: 25px 60px 50px;
     gap: 0px 0px;
     grid-auto-flow: row;
