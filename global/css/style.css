@@ -1122,7 +1122,7 @@ grid-area: ano_cate_title;
 .ano_cate_submess {
     grid-area: ano_cate_submess;
     border-bottom: 1px solid;
-    font-size: 10px;
+    font-size: 9px;
     text-transform: uppercase;
     line-height: 3;
     text-align: right;
