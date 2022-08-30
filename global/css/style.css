@@ -1164,7 +1164,8 @@ grid-area: ano_cate_title;
     line-height: 2;
     text-decoration: none!important;
     transition: 0.5s;
-    text-transform: uppercase;
+    text-transform: capitalize;
+    font-size: 13px;
 }
 
 .ano_cate_lastmess strong {
